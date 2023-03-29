@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    color: white;
+    background-color: #1F2937;
+    width: 100%;
+    font-family: 'Karla', sans-serif;
+}
+
+span {
+    color: #4ADF86;
+    display :block;
+}
+
+.password-btn {
+    background-color: #10B981;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin: 20px 35px 30px 38px;
+}
+
+.password {
+    display: inline-block;
+    margin: 0px 5px 0px 5px;
+    padding: 0px 44px;
+    background-color: #273549;
+    border-radius: 3px;
+    font-size: 0.8em;
+    color: #4ADF86;
+}
+
+h1 {
+    margin: 39px 35px 0px 35px;
+    font-weight: bold;
+}
+
+#text {
+    margin: 20px 35px 30px 35px;
+}
+
+#container {
+    margin: 0px 35px 30px 35px;
+}
